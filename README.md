@@ -7,7 +7,7 @@ I'm Hiro, born and raised in Thailand and currently living in Japan. I am a Full
 * JavaScript
 * TypeScript
 * HTML/CSS
-* <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40' /> React.js
+* React.js
 * Node.js
 * Express.js
 * REST APIs
