@@ -13,6 +13,7 @@ I'm Hiro, born and raised in Thailand and currently living in Japan. I am a Full
 * REST APIs
 * PostgreSQL
 * Knex
+* TailwindCSS
 
 ## Projects
 ### melBee
