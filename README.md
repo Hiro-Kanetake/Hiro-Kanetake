@@ -1,6 +1,7 @@
 <img src="Profile Banner.png" />
 
 # Hiro Kanetake
+I'm Hiro, born and raised in Thailand and currently living in Japan. I am a Full-Stack Engineer with strong attention to details and communication skills gained from 10 years of experience in hospitality and tourism. Seeking to leverage broad development experience and make positive impact on others across the globe through technology as a Software Developer.
 
 ## Skills
 * JavaScript
