@@ -7,7 +7,7 @@ I'm Hiro, born and raised in Thailand and currently living in Japan. I am a Full
 * JavaScript
 * TypeScript
 * HTML/CSS
-* React.js
+* <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40' /> React.js
 * Node.js
 * Express.js
 * REST APIs
@@ -23,6 +23,8 @@ I'm Hiro, born and raised in Thailand and currently living in Japan. I am a Full
 <img width="500" alt="gif file of melbee demo" src="melBee-demo.gif">
 </a>
 
+## How to Reach Me
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hiro-kanetake//) 
 
 <!--
 **Hiro-Kanetake/Hiro-Kanetake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
