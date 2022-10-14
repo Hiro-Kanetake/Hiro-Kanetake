@@ -1,4 +1,19 @@
-### Hi there 👋
+# Hiro Kanetake
+
+## Skills
+* JavaScript
+* TypeScript
+* HTML/CSS
+* React.js
+* Node.js
+* Express.js
+* REST APIs
+* PostgreSQL
+* Knex
+
+## Projects
+*melBee
+
 
 <!--
 **Hiro-Kanetake/Hiro-Kanetake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
