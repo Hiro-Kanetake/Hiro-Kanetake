@@ -1,3 +1,5 @@
+<img src="Profile Banner.png" />
+
 # Hiro Kanetake
 
 ## Skills
