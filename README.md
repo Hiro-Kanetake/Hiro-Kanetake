@@ -29,19 +29,19 @@ I'm Hiro, born and raised in Thailand and currently living in Japan. I am a Full
 &nbsp;
 <div align="center">
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hiro-Kanetake&theme=tokyonight" width="250" align="center" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hiro-Kanetake&theme=solarized_dark" width="250" align="center" />
     </a>
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hiro-Kanetake&theme=tokyonight" width="250" align="center" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hiro-Kanetake&theme=solarized_dark" width="250" align="center" />
     </a>
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hiro-Kanetake&theme=tokyonight&utcOffset=9" width="250" align="center" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hiro-Kanetake&theme=solarized_dark&utcOffset=9" width="250" align="center" />
     </a>
 </div>
 &nbsp;
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Hiro-Kanetake&column=6&no-frame=true&margin-w=10" align="center" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Hiro-Kanetake&theme=nord&column=6&no-frame=true&margin-w=10" align="center" />
   </a>
 </div>
 
