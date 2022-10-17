@@ -18,25 +18,26 @@ I'm Hiro, born and raised in Thailand and currently living in Japan. I am a Full
 
 ### Frameworks & Library
 <div>
-<h4> Frontend </h4>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react.js" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss" />
-<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby on rails" />
+    <h4> Frontend </h4>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react.js" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss" />
+    <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby on rails" />
 </div>
 
 <div>
-<h4> Backend </h4>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express.js" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
-<img src="https://img.shields.io/badge/Knex-2a2421?style=for-the-badge&logo=&logoColor=white" alt="knex.js" />
+    <h4> Backend </h4>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express.js" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
+    <img src="https://img.shields.io/badge/Knex-2a2421?style=for-the-badge&logo=&logoColor=white" alt="knex.js" />
+    <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby on rails" />
 </div>
 
 <div>
-<h4> Other </h4>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node.js" />
-<img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" alt="mocha" />
-<img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" akt="chai">
+    <h4> Other </h4>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node.js" />
+    <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" alt="mocha" />
+    <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" akt="chai">
 </div>
 
 ### Dev Ops
@@ -82,9 +83,9 @@ melBee is a Web app that allows user to customize rich text html emails easily i
 [<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="melbee heroku app" />](http://melbee.herokuapp.com/)
 
 <div align="center">
-<a href="https://www.youtube.com/embed/Bj7EGQSIuTE?controls=0" target="_blank">
-<img width="500" alt="gif file of melbee demo" src="melBee-demo.gif">
-</a>
+    <a href="https://www.youtube.com/embed/Bj7EGQSIuTE?controls=0" target="_blank">
+        <img width="500" alt="gif file of melbee demo" src="melBee-demo.gif">
+    </a>
 </div>
 
 ## How to Reach Me
