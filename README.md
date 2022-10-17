@@ -75,8 +75,11 @@ I'm Hiro, born and raised in Thailand and currently living in Japan. I am a Full
 
 
 ## Projects
-### <a href="https://github.com/melBee-newsletter/melBee" target="_blank"> melBee </a>
-<a href="http://melbee.herokuapp.com/" target="_blank"> melBee </a> is a Web app that allows user to customize rich text html emails easily in intuitive way without requiring coding knowledge. User can send a customized email directly from the app to their contact list which is easily added through typing an email address or uploading a CSV file.
+### melBee
+melBee is a Web app that allows user to customize rich text html emails easily in intuitive way without requiring coding knowledge. User can send a customized email directly from the app to their contact list which is easily added through typing an email address or uploading a CSV file.
+
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="melbee github repository" />](https://github.com/melBee-newsletter/melBee)
+[<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="melbee heroku app" />](http://melbee.herokuapp.com/)
 
 <div align="center">
 <a href="https://www.youtube.com/embed/Bj7EGQSIuTE?controls=0" target="_blank">
@@ -85,7 +88,7 @@ I'm Hiro, born and raised in Thailand and currently living in Japan. I am a Full
 </div>
 
 ## How to Reach Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hiro-kanetake//) 
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' />](https://www.linkedin.com/in/hiro-kanetake/) 
 
 <!--
 **Hiro-Kanetake/Hiro-Kanetake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
