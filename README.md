@@ -15,6 +15,37 @@ I'm Hiro, born and raised in Thailand and currently living in Japan. I am a Full
 * Knex
 * TailwindCSS
 
+## Stats
+
+
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Hiro-Kanetake&count_private=true&show_icons=true&theme=vue-dark&line_height=20&card_width=300" align="center" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiro-Kanetake&layout=compact&theme=vue-dark" align="center" />
+    </a>
+</div>
+&nbsp;
+<div align="center">
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hiro-Kanetake&theme=vue-dark" width="250" align="center" />
+    </a>
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hiro-Kanetake&theme=tokyonight" width="250" align="center" />
+    </a>
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hiro-Kanetake&theme=tokyonight&utcOffset=9" width="250" align="center" />
+    </a>
+</div>
+&nbsp;
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Hiro-Kanetake&column=6&no-frame=true&margin-w=10" align="center" />
+  </a>
+</div>
+
+
 ## Projects
 ### <a href="https://github.com/melBee-newsletter/melBee" target="_blank"> melBee </a>
 <a href="http://melbee.herokuapp.com/" target="_blank"> melBee </a> is a Web app that allows user to customize rich text html emails easily in intuitive way without requiring coding knowledge. User can send a customized email directly from the app to their contact list which is easily added through typing an email address or uploading a CSV file.
