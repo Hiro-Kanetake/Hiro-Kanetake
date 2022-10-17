@@ -29,7 +29,7 @@ I'm Hiro, born and raised in Thailand and currently living in Japan. I am a Full
 &nbsp;
 <div align="center">
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hiro-Kanetake&theme=vue-dark" width="250" align="center" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hiro-Kanetake&theme=tokyonight" width="250" align="center" />
     </a>
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hiro-Kanetake&theme=tokyonight" width="250" align="center" />
