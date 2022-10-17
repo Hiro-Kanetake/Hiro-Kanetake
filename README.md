@@ -50,9 +50,11 @@ I'm Hiro, born and raised in Thailand and currently living in Japan. I am a Full
 ### <a href="https://github.com/melBee-newsletter/melBee" target="_blank"> melBee </a>
 <a href="http://melbee.herokuapp.com/" target="_blank"> melBee </a> is a Web app that allows user to customize rich text html emails easily in intuitive way without requiring coding knowledge. User can send a customized email directly from the app to their contact list which is easily added through typing an email address or uploading a CSV file.
 
+<div align="center">
 <a href="https://www.youtube.com/embed/Bj7EGQSIuTE?controls=0" target="_blank">
 <img width="500" alt="gif file of melbee demo" src="melBee-demo.gif">
 </a>
+</div>
 
 ## How to Reach Me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hiro-kanetake//) 
