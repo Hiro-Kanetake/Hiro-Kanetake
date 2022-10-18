@@ -28,7 +28,6 @@ I'm Hiro, born and raised in Thailand and currently living in Japan. I am a Full
     <h4> Backend </h4>
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express.js" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
     <img src="https://img.shields.io/badge/Knex-2a2421?style=for-the-badge&logo=&logoColor=white" alt="knex.js" />
     <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby on rails" />
 </div>
@@ -40,11 +39,15 @@ I'm Hiro, born and raised in Thailand and currently living in Japan. I am a Full
     <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" akt="chai">
 </div>
 
-### Dev Ops
-* Git
-* Heroku
-* REST APIs
-* Agile Methodology
+### Dev Ops & Tools
+<div>
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code" />
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
+    <img src="https://img.shields.io/badge/REST_APIs-CBDCCB?style=for-the-badge&logo=&logoColor=white" alt="rest api" />
+    <img src="https://img.shields.io/badge/Agile_Methodology-CBDCCB?style=for-the-badge&logo=&logoColor=white" alt="agile methodology" />
+</div>
 
 ## Stats
 <div align="center">
@@ -89,6 +92,7 @@ melBee is a Web app that allows user to customize rich text html emails easily i
 </div>
 
 ## How to Reach Me
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />](https://github.com/Hiro-Kanetake)
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' />](https://www.linkedin.com/in/hiro-kanetake/) 
 
 <!--
