@@ -97,9 +97,16 @@ taberü is a Web app that allows home-cook to select dishes they want their fami
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="melbee github repository" />](https://github.com/Hiro-Kanetake/taberu)
 [<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="melbee heroku app" />](http://taberu-apps.herokuapp.com/)
 
+### decafé
+There are many apps that allow users to search for coffee shops, but there isn't one for decaffenated beverages. decafé allows users to find a store that has decaffenated coffee and beverages, and only the important information such as beverage menu, address and map is shown.
+This was a legacy project, and our team focused mainly on improving the UX.
+
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="melbee github repository" />](https://github.com/Hiro-Kanetake/taberu)
+[<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="melbee heroku app" />](http://decafe-v2.herokuapp.com/)
+
 
 ## How to Reach Me
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />](https://github.com/Hiro-Kanetake)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />](https://github.com/Hiro-Kanetake/decafe)
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' />](https://www.linkedin.com/in/hiro-kanetake/) 
 
 <!--
