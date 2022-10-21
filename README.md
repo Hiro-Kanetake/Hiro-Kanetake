@@ -82,7 +82,7 @@ I'm Hiro, born and raised in Thailand and currently living in Japan. I am a Full
 ### melBee
 melBee is a Web app that allows user to customize rich text html emails easily in intuitive way without requiring coding knowledge. User can send a customized email directly from the app to their contact list which is easily added through typing an email address or uploading a CSV file.
 
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="melbee github repository" />](https://github.com/melBee-newsletter/melBee)
+[<img src="https://img.shields.io/badge//melBee-newsletter/melBee-100000?style=for-the-badge&logo=github&logoColor=white" alt="melbee github repository" />](https://github.com/melBee-newsletter/melBee)
 [<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="melbee heroku app" />](http://melbee.herokuapp.com/)
 
 <div align="center">
@@ -94,16 +94,23 @@ melBee is a Web app that allows user to customize rich text html emails easily i
 ### taberü
 taberü is a Web app that allows home-cook to select dishes they want their family member to rate. The main purpose is for the home-cook to be able to identify their family's dietary preference, and as a result, we want to reduce the home-cook's pressure on deciding what to cook, grocery time, and food lost.
 
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="melbee github repository" />](https://github.com/Hiro-Kanetake/taberu)
-[<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="melbee heroku app" />](http://taberu-apps.herokuapp.com/)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="taberu github repository" />](https://github.com/Hiro-Kanetake/taberu)
+[<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="taberu heroku app" />](http://taberu-apps.herokuapp.com/)
+
+<div align="center">
+        <img width="500" alt="screenshot of taberü app" src="taberu%CC%88.png">
+</div>
 
 ### decafé
 There are many apps that allow users to search for coffee shops, but there isn't one for decaffenated beverages. decafé allows users to find a store that has decaffenated coffee and beverages, and only the important information such as beverage menu, address and map is shown.
 This was a legacy project, and our team focused mainly on improving the UX.
 
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="melbee github repository" />](https://github.com/Hiro-Kanetake/taberu)
-[<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="melbee heroku app" />](http://decafe-v2.herokuapp.com/)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="decafe github repository" />](https://github.com/Hiro-Kanetake/decafe)
+[<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="decafe heroku app" />](http://decafe-v2.herokuapp.com/)
 
+<div align="center">
+        <img width="500" alt="screenshot of decafé app" src="decafe%CC%81.png">
+</div>
 
 ## How to Reach Me
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />](https://github.com/Hiro-Kanetake/decafe)
