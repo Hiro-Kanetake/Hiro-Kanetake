@@ -91,6 +91,13 @@ melBee is a Web app that allows user to customize rich text html emails easily i
     </a>
 </div>
 
+### taberü
+taberü is a Web app that allows home-cook to select dishes they want their family member to rate. The main purpose is for the home-cook to be able to identify their family's dietary preference, and as a result, we want to reduce the home-cook's pressure on deciding what to cook, grocery time, and food lost.
+
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="melbee github repository" />](https://github.com/Hiro-Kanetake/taberu)
+[<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="melbee heroku app" />](http://taberu-apps.herokuapp.com/)
+
+
 ## How to Reach Me
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />](https://github.com/Hiro-Kanetake)
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' />](https://www.linkedin.com/in/hiro-kanetake/) 
