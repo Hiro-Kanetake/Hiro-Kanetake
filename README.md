@@ -44,6 +44,7 @@ I'm Hiro, born and raised in Thailand and currently living in Japan. I am a Full
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code" />
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
+    <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
     <img src="https://img.shields.io/badge/REST_APIs-CBDCCB?style=for-the-badge&logo=&logoColor=white" alt="rest api" />
     <img src="https://img.shields.io/badge/Agile_Methodology-CBDCCB?style=for-the-badge&logo=&logoColor=white" alt="agile methodology" />
